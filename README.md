@@ -4,7 +4,7 @@
 </p>
 <div align="center">
   <p align="center">
-<img src=0c3670e984554240ee35d63cc3619f78.jpg>
+<img src=20211202_081955.jpg>
 </p>
   <p align="center">
 <a href="https://github.com/cyberchekuthan"><img title="Author" src="https://img.shields.io/badge/Author-Amal-cyberchekuthan/Amalser_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
@@ -39,7 +39,7 @@ https://www.instagram.com/p/CCdcH3FBd1a/?utm_medium=copy_link
 
 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Amalser/Amalser)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/Devilsir1/DEVIL_SIR)
   
 ### The Hard Method
 ```js
